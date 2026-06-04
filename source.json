@@ -7,16 +7,24 @@
   "tintColor": "0064A4",
   "apps": [
     {
-      "name": "GöteborgGo",
+      "name": "G\u00f6teborgGo",
       "bundleIdentifier": "com.afkfish.GoteborgGo",
       "developerName": "Beni Kis",
-      "subtitle": "A cleaner Västtrafik for Göteborg",
-      "localizedDescription": "Personal-use alternative to the official Västtrafik To Go app. Map-first, Ruter-inspired UX with live departures, journey planning, and tariff zone overlays.",
+      "subtitle": "A cleaner V\u00e4sttrafik for G\u00f6teborg",
+      "localizedDescription": "Personal-use alternative to the official V\u00e4sttrafik To Go app. Map-first, Ruter-inspired UX with live departures, journey planning, and tariff zone overlays.",
       "iconURL": "",
       "tintColor": "0064A4",
       "category": "navigation",
       "screenshotURLs": [],
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-06-04T12:05:47Z",
+          "downloadURL": "https://github.com/afkfish/GoteborgGo-source/releases/download/v1.0.0/GoteborgGo.ipa",
+          "size": 1784820,
+          "localizedDescription": "Release 1.0.0"
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
