@@ -12,7 +12,7 @@
       "developerName": "Beni Kis",
       "subtitle": "A cleaner V\u00e4sttrafik for G\u00f6teborg",
       "localizedDescription": "Personal-use alternative to the official V\u00e4sttrafik To Go app. Map-first, Ruter-inspired UX with live departures, journey planning, and tariff zone overlays.",
-      "iconURL": "",
+      "iconURL": "https://raw.githubusercontent.com/afkfish/goteborggo-source/main/icon.png",
       "tintColor": "0064A4",
       "category": "navigation",
       "screenshotURLs": [],
