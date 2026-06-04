@@ -3,7 +3,7 @@
   "subtitle": "Personal apps",
   "description": "Private app distribution by afkfish.",
   "identifier": "com.afkfish.altstore.source",
-  "iconURL": "",
+  "iconURL": "https://raw.githubusercontent.com/afkfish/GoteborgGo-source/main/source.json",
   "tintColor": "0064A4",
   "apps": [
     {
