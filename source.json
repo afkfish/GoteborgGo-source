@@ -1,0 +1,28 @@
+{
+  "name": "afkfish",
+  "subtitle": "Personal apps",
+  "description": "Private app distribution by afkfish.",
+  "identifier": "com.afkfish.altstore.source",
+  "iconURL": "",
+  "tintColor": "0064A4",
+  "apps": [
+    {
+      "name": "GöteborgGo",
+      "bundleIdentifier": "com.afkfish.GoteborgGo",
+      "developerName": "Beni Kis",
+      "subtitle": "A cleaner Västtrafik for Göteborg",
+      "localizedDescription": "Personal-use alternative to the official Västtrafik To Go app. Map-first, Ruter-inspired UX with live departures, journey planning, and tariff zone overlays.",
+      "iconURL": "",
+      "tintColor": "0064A4",
+      "category": "navigation",
+      "screenshotURLs": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Used to show your location on the map and find nearby stops."
+        }
+      }
+    }
+  ]
+}
